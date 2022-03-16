@@ -38,7 +38,7 @@ website:   	http://www.themepunch.com
 }
 
 .the_timeline_tester {
-	background:#e74c3c;
+	background:#7ABBC1;
 	position:absolute;
 	top:0px;
 	left:0px;
@@ -1136,7 +1136,7 @@ img.tp-slider-alternative-image	{
 	width: 40px;
 	height: 40px;
 	margin-top:-20px;margin-left:-20px;
-	background-color: #ff0000;
+	background-color: #00FDFF;
 	box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.15);	
 	border-radius: 100%;	
 	animation: tp-scaleout 1.0s infinite ease-in-out;
@@ -1298,7 +1298,7 @@ body.rtl .tp-kbimg {left: 0 !important}
   padding: 5px 10px;
   z-index: 2000;
   white-space: normal;}
-.hginfo 					   { 	position:absolute;top:-2px;left:-2px;color:#e74c3c;font-size:12px;font-weight:600; background:#000;padding:2px 5px;}
+.hginfo 					   { 	position:absolute;top:-2px;left:-2px;color:#7ABBC1;font-size:12px;font-weight:600; background:#000;padding:2px 5px;}
 .indebugmode .tp-caption:hover { 	border:1px dashed #c0392b !important;}
 .helpgrid 					   { 	border:2px dashed #c0392b;position:absolute;top:0px;left:0px;z-index:0 }
 #revsliderlogloglog				{	padding:15px;color:#fff;position:fixed; top:0px;left:0px;width:200px;height:150px;background:rgba(0,0,0,0.7); z-index:100000; font-size:10px; overflow:scroll;}
