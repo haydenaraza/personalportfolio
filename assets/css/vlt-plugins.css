@@ -5780,7 +5780,7 @@ body.compensate-for-scrollbar {
 }
 
 .fancybox-progress {
-  background: #ff5268;
+  background: #00DBEB;
   height: 2px;
   left: 0;
   position: absolute;
@@ -6230,7 +6230,7 @@ body.compensate-for-scrollbar {
 }
 
 .fancybox-thumbs__list a::before {
-  border: 6px solid #ff5268;
+  border: 6px solid #00DBEB;
   bottom: 0;
   content: '';
   left: 0;
