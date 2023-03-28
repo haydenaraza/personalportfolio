@@ -4651,7 +4651,7 @@ dl dd
 .vlt-post--style-6:hover .vlt-post__header .vlt-post-title > a:hover,
 .vlt-post--style-6:hover .vlt-post__header .vlt-post-meta
 {
-    color: #fff;
+    color: rgb(156, 142, 142);
 }
 
 .vlt-post--style-6:hover .vlt-post__footer
@@ -6469,12 +6469,16 @@ dl dd
     max-width: 100%;
 
     white-space: nowrap;
+
+    color:#101010;
 }
 [data-marquee] [data-marquee-text]
 {
     display: inline-block;
 
     padding-right: 2em;
+
+    color:#101010;
 
     -webkit-animation: vlt_marquee 5s linear infinite;
             animation: vlt_marquee 5s linear infinite;
